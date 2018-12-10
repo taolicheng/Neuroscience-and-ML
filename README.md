@@ -1,3 +1,6 @@
+### Tutorials
+
+https://brainhack101.github.io/introML/
 
 
 ### Conferences and Workshops
