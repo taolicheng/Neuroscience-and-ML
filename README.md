@@ -2,6 +2,9 @@
 
 https://brainhack101.github.io/introML/
 
+### Courses
+
+https://github.com/brendenlake/AAI-site
 
 ### Conferences and Workshops
 * MAIN2018: http://www.crm.umontreal.ca/2018/MAIN2018/index_e.php
